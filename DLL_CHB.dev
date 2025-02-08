@@ -1,6 +1,6 @@
 [Project]
-FileName=DLL_3PH.dev
-Name=DLL_3PH
+FileName=DLL_CHB.dev
+Name=DLL_CHB
 Type=3
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=2
+UnitCount=3
 
 [VersionInfo]
 Major=1
@@ -62,6 +62,16 @@ BuildCmd=
 
 [Unit2]
 FileName=dll.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=ctrl_pwm.cpp
 CompileCpp=1
 Folder=
 Compile=1

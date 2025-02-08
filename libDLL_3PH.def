@@ -1,4 +1,0 @@
-EXPORTS
-    CloseSimUser @1
-    OpenSimUser @2
-    RunSimUser @3

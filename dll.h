@@ -7,6 +7,12 @@
 #define DLLIMPORT __declspec(dllimport)
 #endif
 
-DLLIMPORT void simuser (double t, double delt, double *in, double *out);
+class DLLIMPORT DllClass
+{
+	public:
+		DllClass();
+		virtual ~DllClass();
+		void HelloWorld();
+};
 
 #endif

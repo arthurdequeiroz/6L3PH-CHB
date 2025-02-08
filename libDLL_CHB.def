@@ -1,0 +1,12 @@
+EXPORTS
+    CloseSimUser @1
+    OpenSimUser @2
+    RunSimUser @3
+    _ZN8DllClass10HelloWorldEv @4
+    _ZN8DllClassC1Ev @5
+    _ZN8DllClassC2Ev @6
+    _ZN8DllClassD0Ev @7
+    _ZN8DllClassD1Ev @8
+    _ZN8DllClassD2Ev @9
+    _ZTI8DllClass @10 DATA
+    _ZTV8DllClass @11 DATA
